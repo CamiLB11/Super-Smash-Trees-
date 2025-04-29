@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:11:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:56:21.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAA4wKoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:52:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:52:14.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

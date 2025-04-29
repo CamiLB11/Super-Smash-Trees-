@@ -1,0 +1,17 @@
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\bin\Debug\net9.0-windows\P2-SuperSmashTrees.exe
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\bin\Debug\net9.0-windows\P2-SuperSmashTrees.deps.json
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\bin\Debug\net9.0-windows\P2-SuperSmashTrees.runtimeconfig.json
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\bin\Debug\net9.0-windows\P2-SuperSmashTrees.dll
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\bin\Debug\net9.0-windows\P2-SuperSmashTrees.pdb
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2_SuperSmashTrees.Form1.resources
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2_SuperSmashTrees.Properties.Resources.resources
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.csproj.GenerateResource.cache
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.AssemblyInfoInputs.cache
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.AssemblyInfo.cs
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.csproj.CoreCompileInputs.cache
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.dll
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\refint\P2-SuperSmashTrees.dll
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.pdb
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\P2-SuperSmashTrees.genruntimeconfig.cache
+C:\Users\lizan\source\repos\P2-SuperSmashTrees\obj\Debug\net9.0-windows\ref\P2-SuperSmashTrees.dll

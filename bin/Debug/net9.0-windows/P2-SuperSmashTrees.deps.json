@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "P2-SuperSmashTrees/1.0.0": {
+        "runtime": {
+          "P2-SuperSmashTrees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P2-SuperSmashTrees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
