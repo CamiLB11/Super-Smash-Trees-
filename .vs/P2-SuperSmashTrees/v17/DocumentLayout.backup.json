@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\",
+  "WorkspaceRootPath": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\jeanm\\desktop\\super-smash-trees--main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\jeanm\\desktop\\super-smash-trees--main\\bstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:bstree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\jeanm\\desktop\\super-smash-trees--main\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\lizan\\source\\repos\\p2-supersmashtrees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|c:\\users\\jeanm\\desktop\\super-smash-trees--main\\itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE19B78-074D-4E6E-9257-77CFF46F9348}|P2-SuperSmashTrees.csproj|solutionrelative:itree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AVLTree.cs",
+              "DocumentMoniker": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\AVLTree.cs",
+              "RelativeDocumentMoniker": "AVLTree.cs",
+              "ToolTip": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\AVLTree.cs",
+              "RelativeToolTip": "AVLTree.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAHMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T23:11:22.135Z"
+              "WhenOpened": "2025-05-02T03:57:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITree.cs",
+              "DocumentMoniker": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\ITree.cs",
+              "RelativeDocumentMoniker": "ITree.cs",
+              "ToolTip": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\ITree.cs",
+              "RelativeToolTip": "ITree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T03:49:02.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "BSTree.cs",
+              "DocumentMoniker": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\BSTree.cs",
+              "RelativeDocumentMoniker": "BSTree.cs",
+              "ToolTip": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\BSTree.cs",
+              "RelativeToolTip": "BSTree.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwKYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T03:56:21.737Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-02T03:26:10.483Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.cs",
+              "ToolTip": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAA4wKoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAvwPYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T00:52:41.483Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T00:52:14.683Z"
             }
           ]
         }

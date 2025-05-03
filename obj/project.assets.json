@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lizan\\.nuget\\packages\\": {},
+    "C:\\Users\\jeanm\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\P2-SuperSmashTrees.csproj",
+      "projectUniqueName": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\P2-SuperSmashTrees.csproj",
       "projectName": "P2-SuperSmashTrees",
-      "projectPath": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\P2-SuperSmashTrees.csproj",
-      "packagesPath": "C:\\Users\\lizan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lizan\\source\\repos\\P2-SuperSmashTrees\\obj\\",
+      "projectPath": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\P2-SuperSmashTrees.csproj",
+      "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jeanm\\Desktop\\Super-Smash-Trees--main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
