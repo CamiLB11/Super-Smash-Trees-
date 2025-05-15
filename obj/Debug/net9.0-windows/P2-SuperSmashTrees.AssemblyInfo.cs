@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2-SuperSmashTrees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3050a7b5c28cca066cb79fa49d5435b12d988d5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2-SuperSmashTrees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2-SuperSmashTrees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
